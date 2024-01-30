@@ -5,3 +5,5 @@
 /.vs
 /Automapper.console/.vs
 /Automapper.console/Automapper.console/obj/Debug/net8.0
+/Automapper.console/Automapper.console/bin/Debug/net8.0
+/Automapper.api/Automapper.api/bin/Debug/net8.0
