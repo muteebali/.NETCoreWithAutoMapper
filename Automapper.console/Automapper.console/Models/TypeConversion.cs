@@ -13,7 +13,7 @@
     {
         public int Latitude { get; set; }
         public int Hours { get; set; }
-        public int Days { get; set; }
+        public string Days { get; set; }
         public DateTime? Date { get; set; } 
 
     }
